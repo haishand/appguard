@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyService</string>
+    <string name="tvServerIP">Server IP:</string>
+    <string name="tvLocalPort">Local Port:</string>
+    <string name="tvRemotePort">Remote Port:</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
